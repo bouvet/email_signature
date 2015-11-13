@@ -20,4 +20,14 @@ For the `{GOOGLE-MAPS-MARKER-COORDINATES}` token, do this:
 
 (Yeah I know; there's a way to convert minutes and seconds to decimal degrees…)
 
+## Email client setup
+
+### OS X Apple Mail
+
+http://matt.coneybeare.me/how-to-make-an-html-signature-in-apple-mail-for-el-capitan-os-x-10-dot-11/
+
+### Microsoft Outlook
+
+*Who knows?*
+
 Pull requests welcome!
