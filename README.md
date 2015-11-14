@@ -28,6 +28,10 @@ http://matt.coneybeare.me/how-to-make-an-html-signature-in-apple-mail-for-el-cap
 
 ### Microsoft Outlook
 
-*Who knows?*
+https://support.office.com/en-us/article/Add-a-signature-to-messages-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2
+
+### Mozilla Thunderbird
+
+https://support.mozilla.org/no/kb/signatures
 
 Pull requests welcome!
