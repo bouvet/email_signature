@@ -18,7 +18,7 @@ For the `{GOOGLE-MAPS-MARKER-COORDINATES}` token, do this:
 3. Take **just the two numbers** from the string above (e.g. `-54.448608,3.3366949`)
 4. Replace the token with those numbers.
 
-(Yeah I know; there's a way to convert minutes and seconds to decimal degrees…)
+(Yes, [there's a way](https://www.fcc.gov/encyclopedia/degrees-minutes-seconds-tofrom-decimal-degrees) to convert minutes and seconds to decimal degrees, but it doesn't seem to agree 100% with what Google Maps does. Maybe some corrections done for the purpose of [geodetics](https://en.wikipedia.org/wiki/Geodesy)?)
 
 ## Email client setup
 
