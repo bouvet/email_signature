@@ -8,7 +8,7 @@ logo file that is at http://home.bouvet.no/bouvet/logo.gif.
 Make sure that you edit all the `{TOKENS-IN-BRACKETS}` with the appropriate
 values. Don't forget the ones that are HTML in attributes, e.g. URLs.
 
-You'll also want to amend the address and phone number to your own office. Keep the non-breaking-space characters (`&nbsp;`) between words, which prevent email clients from screwing up the layout.
+You'll also want to amend the address and phone number to your own office. You might need to reformat the number so it's in the "best-to-memorise" format (see [issue #2](https://github.com/bouvet/email_signature/issues/2)). Keep the non-breaking-space characters (`&nbsp;`) between words, which prevent email clients from screwing up the layout.
 
 For the `{GOOGLE-MAPS-MARKER-COORDINATES}` token, do this:
 
